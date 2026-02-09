@@ -665,7 +665,11 @@ Response:
 
 ---
 
-## 📊 Understanding the Results
+## 📊 Sample Report
+
+## ![Result](./images/llm_inferencing.png)
+
+## Understanding the Results
 
 ### Interpreting Latency Metrics
 

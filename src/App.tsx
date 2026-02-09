@@ -118,7 +118,7 @@ const App: React.FC = () => {
             results={results}
             networkLatencyMode={config.networkLatency}
           />
-          <FutureOutlook analysis={analysis} /> */}
+          {/*<FutureOutlook analysis={analysis} /> */}
           <MetricsTable results={results} />
         </div>
       )}
